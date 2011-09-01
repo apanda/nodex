@@ -1,0 +1,6 @@
+[submodule "node-burrito"]
+	path = node-burrito
+	url = git://github.com/substack/node-burrito.git
+[submodule "js-traverse"]
+	path = js-traverse
+	url = git://github.com/substack/js-traverse.git
