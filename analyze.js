@@ -1,5 +1,5 @@
 var fs = require('fs');
-var burrito = require('burrito');
+var burrito = require('./node-burrito');
 
 fs.readFile('test.js', 'utf-8', function(err, data) {
     if (err) {
